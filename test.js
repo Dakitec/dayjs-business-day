@@ -11,4 +11,4 @@ dayjs.extend(xxx, {
 
 const date = dayjs().addBusinessDays(dayjs('2024-04-24'), 3);
 
-console.log(date);
+console.log(date.format('YYYY-MM-DD'));

@@ -21,7 +21,7 @@ dayjs.extend(dayjsBusinessDays, {
 
 const date = dayjs().addBusinessDays(dayjs('2024-04-24'), 3);
 
-console.log(date);
+console.log(date.format('YYYY-MM-DD'));
 ```
 
 Pass your holidays as dayjs date objects to the holidays option when extending dayjs-business-days.
