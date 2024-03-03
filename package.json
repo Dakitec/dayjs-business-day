@@ -1,15 +1,15 @@
 {
-  "name": "dayjs-business-day",
+  "name": "@dakitec/dayjs-business-day",
   "version": "1.0.0",
-  "description": "",
+  "description": "A plugin for dayjs to calculate business days",
   "main": "index.js",
+  "dependencies": {
+    "dayjs": "^1.11.10"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "dayjs": "^1.11.10"
-  }
+  "author": "Dakitec GmbH",
+  "license": "MIT"
 }
