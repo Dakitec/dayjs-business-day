@@ -2,8 +2,9 @@
 
 Use a package manager like yarn or npm to install dayjs-business-days:
 
-npm i @dakitec/dayjs-business-day
-yarn add @dakitec/dayjs-business-day
+Yarn: `yarn add @dakitec/dayjs-business-day`
+
+NPM: `npm i @dakitec/dayjs-business-day`
 
 # How to use this library
 
